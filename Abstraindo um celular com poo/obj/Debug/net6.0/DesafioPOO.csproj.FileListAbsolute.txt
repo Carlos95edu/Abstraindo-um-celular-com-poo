@@ -1,0 +1,15 @@
+C:\Users\carli\Downloads\trilha-net-poo-desafio-main\Abstraindo um celular com poo\bin\Debug\net6.0\DesafioPOO.exe
+C:\Users\carli\Downloads\trilha-net-poo-desafio-main\Abstraindo um celular com poo\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\Users\carli\Downloads\trilha-net-poo-desafio-main\Abstraindo um celular com poo\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\Users\carli\Downloads\trilha-net-poo-desafio-main\Abstraindo um celular com poo\bin\Debug\net6.0\DesafioPOO.dll
+C:\Users\carli\Downloads\trilha-net-poo-desafio-main\Abstraindo um celular com poo\bin\Debug\net6.0\DesafioPOO.pdb
+C:\Users\carli\Downloads\trilha-net-poo-desafio-main\Abstraindo um celular com poo\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\Users\carli\Downloads\trilha-net-poo-desafio-main\Abstraindo um celular com poo\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\Downloads\trilha-net-poo-desafio-main\Abstraindo um celular com poo\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\carli\Downloads\trilha-net-poo-desafio-main\Abstraindo um celular com poo\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\carli\Downloads\trilha-net-poo-desafio-main\Abstraindo um celular com poo\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\carli\Downloads\trilha-net-poo-desafio-main\Abstraindo um celular com poo\obj\Debug\net6.0\DesafioPOO.dll
+C:\Users\carli\Downloads\trilha-net-poo-desafio-main\Abstraindo um celular com poo\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\Users\carli\Downloads\trilha-net-poo-desafio-main\Abstraindo um celular com poo\obj\Debug\net6.0\DesafioPOO.pdb
+C:\Users\carli\Downloads\trilha-net-poo-desafio-main\Abstraindo um celular com poo\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\carli\Downloads\trilha-net-poo-desafio-main\Abstraindo um celular com poo\obj\Debug\net6.0\ref\DesafioPOO.dll
